@@ -10,7 +10,7 @@
 
 	<name>course-api-database</name>
 	<description>Course Api spring boot with DB</description>
-<!-- Unused comment-->
+<!-- Chandan Comment-->
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
